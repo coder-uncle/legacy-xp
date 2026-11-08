@@ -8,12 +8,14 @@ An independent Windows XP-inspired desktop simulator built with React, TypeScrip
 
 ## Run locally
 ```bash
-git clone https://github.com/coder-uncle/legacy-xp.git
+git clone --branch feat/xp-desktop-foundation https://github.com/coder-uncle/legacy-xp.git
 cd legacy-xp
 npm install
 npm run dev
 ```
-Open the local URL printed by Vite (normally http://localhost:5173).
+Open the local URL printed by Vite (normally http://localhost:5173). Keep the terminal running while using the app.
+
+On Windows PowerShell, the same commands work. To stop the dev server, press `Ctrl+C` in that terminal.
 
 ## Production build
 ```bash
