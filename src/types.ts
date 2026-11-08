@@ -1,0 +1,1 @@
+export type AppId="computer"|"notepad"|"calculator"|"paint"|"recycle"|"run"|"about";export interface DesktopWindow{id:string;app:AppId;title:string;x:number;y:number;width:number;height:number;z:number;minimized:boolean;maximized:boolean;}
