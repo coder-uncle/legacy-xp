@@ -1,0 +1,1 @@
+export default function About(){return <div className="about-app"><div className="about-logo">▦</div><h2>Legacy XP</h2><b>Windows XP-inspired desktop environment</b><p>Version 0.1.0 · Browser edition</p><p>This is an independent simulation. It is not Microsoft Windows and does not run Windows executables.</p><small>Built with React, TypeScript and Vite.</small></div>;}
